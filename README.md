@@ -3,7 +3,7 @@
 
 Creating React App
 
-  $ npx create-react-app my-sexy-app
+    $ npx create-react-app my-sexy-app
   
 Open It
 
