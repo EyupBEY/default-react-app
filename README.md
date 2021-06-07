@@ -7,19 +7,19 @@ Creating React App
   
 Open It
 
-  $ cd my-sexy-app
+    $ cd my-sexy-app
   
-  $ npm start
+    $ npm start
   
 Add Package
 
-  $npm install ...
+    $npm install ...
   
 Make It Hostable
 
-  .../my-sexy-app$ npm run build
+    .../my-sexy-app$ npm run build
   
-  ($npm run my-sexy-build  -et cetera couldn't work-)
+    ($npm run my-sexy-build  -et cetera couldn't work-)
   
 Host It On Github (or Somewhere)
 
