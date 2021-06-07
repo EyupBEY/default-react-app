@@ -3,7 +3,7 @@
 
 Creating React App
 
-$ npx create-react-app my-sexy-app
+  $ npx create-react-app my-sexy-app
   
 Open It
 
@@ -13,11 +13,11 @@ Open It
   
 Add Package
 
-$npm install ...
+  $npm install ...
   
 Make It Hostable
 
-.../my-sexy-app$ npm run build
+  .../my-sexy-app$ npm run build
   
   ($npm run my-sexy-build  -et cetera couldn't work-)
   
